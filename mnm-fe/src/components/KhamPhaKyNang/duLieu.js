@@ -1,0 +1,73 @@
+const duLieu = [
+  {
+    id: 1,
+    ten: 'Lập trình',
+    moTa: 'Kỹ năng viết code, phát triển phần mềm.',
+    nganhLienQuan: ['CNTT'],
+    ngheLienQuan: ['Lập trình viên', 'Kỹ sư phần mềm'],
+  },
+  {
+    id: 2,
+    ten: 'Quản lý dự án',
+    moTa: 'Kỹ năng tổ chức, điều phối dự án.',
+    nganhLienQuan: ['QTKD'],
+    ngheLienQuan: ['Quản lý dự án', 'Giám đốc sản xuất'],
+  },
+  {
+    id: 3,
+    ten: 'Giao tiếp',
+    moTa: 'Kỹ năng truyền đạt thông tin hiệu quả.',
+    nganhLienQuan: ['Marketing', 'QTKD'],
+    ngheLienQuan: ['Chuyên viên truyền thông', 'Nhân viên kinh doanh'],
+  },
+  {
+    id: 4,
+    ten: 'Thiết kế đồ họa',
+    moTa: 'Kỹ năng sáng tạo hình ảnh, thiết kế sản phẩm số.',
+    nganhLienQuan: ['Mỹ thuật', 'CNTT'],
+    ngheLienQuan: ['Designer', 'Chuyên viên thiết kế'],
+  },
+  {
+    id: 5,
+    ten: 'Phân tích dữ liệu',
+    moTa: 'Kỹ năng xử lý, phân tích số liệu lớn.',
+    nganhLienQuan: ['CNTT', 'Kinh tế'],
+    ngheLienQuan: ['Data Analyst', 'Chuyên viên phân tích'],
+  },
+  {
+    id: 6,
+    ten: 'Tiếng Anh',
+    moTa: 'Kỹ năng sử dụng tiếng Anh trong công việc.',
+    nganhLienQuan: ['Ngôn ngữ', 'Du lịch'],
+    ngheLienQuan: ['Biên phiên dịch', 'Hướng dẫn viên'],
+  },
+  {
+    id: 7,
+    ten: 'Kỹ năng lãnh đạo',
+    moTa: 'Khả năng dẫn dắt, quản lý đội nhóm.',
+    nganhLienQuan: ['QTKD', 'Giáo dục'],
+    ngheLienQuan: ['Quản lý', 'Trưởng phòng'],
+  },
+  {
+    id: 8,
+    ten: 'Kỹ năng giải quyết vấn đề',
+    moTa: 'Tìm ra giải pháp cho các tình huống phức tạp.',
+    nganhLienQuan: ['CNTT', 'Kinh tế'],
+    ngheLienQuan: ['Chuyên viên tư vấn', 'Quản lý dự án'],
+  },
+  {
+    id: 9,
+    ten: 'Kỹ năng làm việc nhóm',
+    moTa: 'Phối hợp hiệu quả với các thành viên khác.',
+    nganhLienQuan: ['Giáo dục', 'QTKD'],
+    ngheLienQuan: ['Nhân viên dự án', 'Giáo viên'],
+  },
+  {
+    id: 10,
+    ten: 'Kỹ năng sáng tạo',
+    moTa: 'Tạo ra ý tưởng mới, giải pháp mới.',
+    nganhLienQuan: ['Mỹ thuật', 'Marketing'],
+    ngheLienQuan: ['Copywriter', 'Chuyên viên sáng tạo'],
+  },
+];
+export default duLieu;
